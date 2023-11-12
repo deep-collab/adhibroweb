@@ -406,7 +406,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/Untitled.png") top center;
+  background: url("../img/CRS_9282.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -994,7 +994,7 @@ section {
 }
 
 .counts .image {
-  background: url("../img/counts-img.jpg") center center no-repeat;
+  background: url("../img/Firefly\ yellow\ and\ black\ 57442.svg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }

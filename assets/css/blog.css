@@ -1,0 +1,17 @@
+.blog-main{
+  background: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-section{
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-color: black;
+    width: 1000px;
+}
+
+.blog-div{
+    margin: 20px;
+}
