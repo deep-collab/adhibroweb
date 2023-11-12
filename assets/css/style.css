@@ -406,7 +406,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/CRS_9282.jpg") top center;
+  background: url("/workspaces/adhibroweb/assets/img/CRS_9282.jpg") top center;
   background-size: cover;
   position: relative;
 }
